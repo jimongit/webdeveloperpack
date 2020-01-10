@@ -554,6 +554,6 @@ The Visual Studio IntelliCode extension provides AI-assisted development feature
 
 ## Have a suggestion? 
 
-Submit a PR to the [GitHub repo](https://github.com/geoffstevens8/webdeveloperpack). 
+Submit a PR to the [GitHub repo](https://github.com/jimongit/webdeveloperpack). 
 And also check this beautiful theme pack (https://github.com/geoffstevens8/best-dark-themes-pack)
 Markdown theme by (https://github.com/geoffstevens8/)
