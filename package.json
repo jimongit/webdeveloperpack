@@ -1,0 +1,57 @@
+{
+    "name": "webdeveloperpack",
+    "displayName": "WebDeveloperPack",
+    "publisher": "JimmyMeb",
+    "description": "This extension pack includes some of the best vs-code extensions for django and Javascript developers.",
+    "version": "0.0.1",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jimongit/webdeveloperpack"
+        
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "coenraads.bracket-pair-colorizer",
+        "30-seconds.30-seconds-of-code",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "wwm.better-align",
+        "aaron-bond.better-comments",
+        "auchenberg.vscode-browser-preview",
+        "formulahendry.code-runner",
+        "softwaredotcom.swdc-vscode",
+        "pranaygp.vscode-css-peek",
+        "msjsdiag.debugger-for-chrome",
+        "thebarkman.vscode-djaneiro",
+        "bibhasdn.django-html",
+        "editorconfig.editorconfig",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "qezhu.gitlink",
+        "abusaidm.html-snippets",
+        "zignd.html-css-class-completion",
+        "xabikos.javascriptsnippets",
+        "sburg.vscode-javascript-booster",
+        "ritwickdey.liveserver",
+        "pkief.material-icon-theme",
+        "formulahendry.vscode-mysql",
+        "miramac.vscode-exec-node",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "pnp.polacode",
+        "esbenp.prettier-vscode",
+        "alefragnani.project-manager",
+        "ms-python.python",
+        "wallabyjs.quokka-vscode",
+        "humao.rest-client",
+        "shan.code-settings-sync",
+        "sensourceinc.vscode-sql-beautify",
+        "visualstudioexptteam.vscodeintellicode" 
+    ]
+}
